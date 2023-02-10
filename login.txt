@@ -1,1 +1,2 @@
 Login finctionality added
+conflicts on dev branch
