@@ -1,2 +1,6 @@
 Login finctionality added
+
 for merging demo on master
+
+conflicts on dev branch
+ dev
